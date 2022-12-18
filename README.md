@@ -7,8 +7,6 @@
 • If you want to view the deployed model, click on the following link:<br />
 Deployed at: _https://nlp-restaurant-analysis.herokuapp.com/_
 
-Have a look at  the web app:
 
-https://user-images.githubusercontent.com/54376246/123080454-905ae600-d43a-11eb-864b-909e982bda5c.mp4
 
 
