@@ -1,4 +1,4 @@
-# Restaurant-Review-s-Sentiment-Analyser
+# College-Review-s-Sentiment-Analyser
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.7](https://img.shields.io/badge/Python-3.7-brightgreen.svg) ![nltk](https://img.shields.io/badge/Library-NLTK-orange.svg)
 
 
